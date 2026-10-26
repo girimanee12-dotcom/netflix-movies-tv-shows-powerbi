@@ -5,6 +5,7 @@ An interactive Power BI report that explores Netflix's catalogue of movies and T
 ![Executive Dashboard]
 <img width="695" height="389" alt="executive_dashboard" src="https://github.com/user-attachments/assets/7fe96c46-eb5c-4379-a667-fef0aa931e52" />
 
+
 ![Viewers Insights]
 <img width="691" height="389" alt="Viwers insights" src="https://github.com/user-attachments/assets/61ed395f-772d-4361-8c4d-1c52d9109484" />
 
