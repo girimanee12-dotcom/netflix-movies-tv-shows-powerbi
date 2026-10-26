@@ -140,4 +140,4 @@ Data cleaning with Power Query · Data modelling · DAX measures · Dashboard de
 ## Author
 
 **Manish Giri**
-<!-- Add your LinkedIn / email link here -->
+<!-- https://www.linkedin.com/in/manish-giri-703a611b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOya4H3tmQniJtycAror07A%3D%3D / girimanee12@gmail.com -->
